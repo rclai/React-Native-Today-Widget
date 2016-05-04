@@ -771,6 +771,7 @@
 				INFOPLIST_FILE = TodayWidget/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactjs.native.example.TodayWidgetTest.TodayWidget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
@@ -787,6 +788,7 @@
 				INFOPLIST_FILE = TodayWidget/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactjs.native.example.TodayWidgetTest.TodayWidget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
@@ -907,6 +909,7 @@
 				205950531CDA524F009A4BEF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "TodayWidgetTest" */ = {
 			isa = XCConfigurationList;
