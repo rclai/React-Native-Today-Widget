@@ -15,3 +15,7 @@
 ## Results
 
 This works on the iOS Simulator, but unfortunately doesn't work on an actual phone.
+
+## Related Issue
+
+https://github.com/facebook/react-native/issues/7391
