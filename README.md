@@ -1,4 +1,5 @@
-# React-Native-Today-Widget
+## Update 10/10/2017
+You should try [this library](https://github.com/matejkriz/react-native-today-widget) instead.
 
 ## Steps I followed
 
